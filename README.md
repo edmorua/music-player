@@ -33,6 +33,10 @@ mvn javafx:run
 mvn clean package
 ```
 
+## License
+
+MIT — see [LICENSE](LICENSE) for details.
+
 ## Project Structure
 
 ```
